@@ -2,4 +2,5 @@
 Statistical methods in Python using NumPy, SciPy, and Math libraries 
 
 ## How to run?
-Open the directory and run ```python3 taskX.py```.
+[1] open the working directory in terminal
+[2] run ```python3 taskX.py```
