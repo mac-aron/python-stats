@@ -1,4 +1,4 @@
-# Statistics in Python
+# Statistics in Python3
 Exploring statistical methods in Python3 using `NumPy`, `SciPy`, and `Math` libraries.
 
 ## How to run?
