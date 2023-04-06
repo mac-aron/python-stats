@@ -6,8 +6,8 @@ Statistical methods in Python using `NumPy`, `SciPy`, and `Math` libraries
 2. Run `python3 taskX.py`
 
 ## Task descriptions
-Task 1 – Calculation of annualized loss expectancy
-Task 2 – Probability theory
+Task 1 – Calculation of annualized loss expectancy </br>
+Task 2 – Probability theory </br>
 Task 3 – Linear regression and linear programming
 
 ## Objectives 
