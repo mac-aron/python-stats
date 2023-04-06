@@ -1,5 +1,5 @@
 # Statistics in Python
-Statistical methods in Python using `NumPy`, `SciPy`, and `Math` libraries 
+Exploring statistical methods in Python3 using `NumPy`, `SciPy`, and `Math` libraries.
 
 ## How to run?
 1. Open the working directory in terminal
