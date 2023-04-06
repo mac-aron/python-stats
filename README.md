@@ -10,7 +10,7 @@ Task 1 – Calculation of annualized loss expectancy </br>
 Task 2 – Probability theory </br>
 Task 3 – Linear regression and linear programming
 
-## Objectives 
+## Learning objectives 
 - Develop appreciation and understanding of security tools.
 - Formulate troubleshooting methods to identify/solve problems.
 - Evaluate information to critically argument solution choices.
