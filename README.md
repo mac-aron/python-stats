@@ -7,7 +7,7 @@ Exploring statistical methods in Python3 using `NumPy`, `SciPy`, and `Math` libr
 
 ## Task descriptions
 
-See `spec.pdf` for detailed task descriptions and used data.
+See `spec.pdf` for detailed task descriptions and used data.</br>
 Task 1 – Calculation of annualized loss expectancy </br>
 Task 2 – Probability theory </br>
 Task 3 – Linear regression and linear programming
