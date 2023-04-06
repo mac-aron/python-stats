@@ -11,7 +11,7 @@ Task 2 – Probability theory
 Task 3 – Linear regression and linear programming
 
 ## Objectives 
--Develop appreciation and understanding of security tools.
--Formulate troubleshooting methods to identify/solve problems.
--Evaluate information to critically argument solution choices.
--Effectively communicate ideas.
+- Develop appreciation and understanding of security tools.
+- Formulate troubleshooting methods to identify/solve problems.
+- Evaluate information to critically argument solution choices.
+- Effectively communicate ideas.
